@@ -2,6 +2,13 @@
 Scripts to identify and remove opaque predicates and range dividers from Xtunnel and Asprox accordingly.
 Based on Yuma Kurogome’s ABD course materials, using radare2 and miasm (0.1.3.dev39)
 
+## Some results
+### XTunnel opaque predicates
+![image](https://raw.githubusercontent.com/ulexec/ulexec.github.io/master/images/x-tunnel_ops.png)
+
+### Asprox range dividers
+![image](https://raw.githubusercontent.com/ulexec/ulexec.github.io/master/images/asprox_range_divider2.png)
+
 ## The Course
 https://github.com/malrev/ABD
 
